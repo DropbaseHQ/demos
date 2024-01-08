@@ -1,0 +1,1 @@
+SELECT * FROM sales_rep WHERE customer_id = {{customers.customer_id}}

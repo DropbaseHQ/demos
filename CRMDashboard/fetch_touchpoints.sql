@@ -1,0 +1,1 @@
+SELECT * FROM touchpoints WHERE customer_id = {{customers.customer_id}}
